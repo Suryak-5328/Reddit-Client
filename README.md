@@ -16,4 +16,4 @@ A command line based reddit application.
 Python 3+
 
 ## TESTS
-Testing git push notifications
+Testing git push notifications.
