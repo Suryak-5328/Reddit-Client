@@ -14,3 +14,6 @@ A command line based reddit application.
 ## Dependencies
 
 Python 3+
+
+## TESTS
+Testing git push notifications
